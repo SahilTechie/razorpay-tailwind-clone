@@ -1,6 +1,11 @@
-# RazorPay Clone
+# 💳 RazorPay Clone - Comprehensive Landing Page
 
 A modern, responsive clone of the RazorPay website built with HTML, CSS, and Tailwind CSS. This project replicates the design and layout of RazorPay's official website, showcasing their payment gateway and business banking solutions.
+
+## 🌐 Live Demo
+
+🚀 Hosted on Netlify:  
+👉 [https://genuine-melba-e83565.netlify.app](https://genuine-melba-e83565.netlify.app)
 
 ## 🌟 Features
 
@@ -19,6 +24,7 @@ A modern, responsive clone of the RazorPay website built with HTML, CSS, and Tai
 - **Feather Icons**: Beautiful SVG icons
 - **CSS3**: Custom animations and responsive design
 - **PostCSS**: CSS processing and optimization
+- **Netlify**: Hosting platform
 
 ## 📁 Project Structure
 
@@ -103,7 +109,7 @@ npm run build
 - Social media links
 - Company information and certifications
 
-## 🎯 Key Sections
+## � Key Sections
 
 1. **Hero Section** - Main landing area with primary value proposition
 2. **Payment Gateway** - Detailed showcase of payment solutions
@@ -121,7 +127,7 @@ The website is fully responsive and optimized for:
 - **Tablet** (768px - 1023px)
 - **Mobile** (320px - 767px)
 
-## 🔧 Customization
+## � Customization
 
 ### Colors
 The project uses a custom color palette defined in `tailwind.config.js`:
@@ -184,3 +190,6 @@ This project is for educational purposes. RazorPay is a trademark of Razorpay So
 ---
 
 ⭐ If you found this project helpful, please give it a star on GitHub!
+
+
+
